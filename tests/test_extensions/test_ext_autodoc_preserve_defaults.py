@@ -1,4 +1,4 @@
-"""Test the autodoc extension."""
+"""Test the autodoc extension ."""
 
 import pytest
 
