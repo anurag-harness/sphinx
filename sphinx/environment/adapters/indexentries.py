@@ -1,4 +1,4 @@
-"""Index entries adapters for sphinx.environment."""
+"""Index entries adapters for sphinx.environment. """
 
 from __future__ import annotations
 

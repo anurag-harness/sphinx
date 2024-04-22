@@ -1,4 +1,4 @@
-"""Utilities parsing and analyzing Python code."""
+"""Utilities parsing and analyzing Python code. """
 
 from __future__ import annotations
 
