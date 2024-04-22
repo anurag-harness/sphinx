@@ -1,4 +1,4 @@
-"""The math domain."""
+"""The math domain. """
 
 from __future__ import annotations
 
